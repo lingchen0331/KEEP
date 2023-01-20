@@ -6,3 +6,8 @@ Download the Data directory and Model directory, and put them under the main dir
 '''  
 python main.py --dataset [csqa/qasc]
 '''  
+
+```python
+python main.py --dataset [csqa/qasc]
+
+```
